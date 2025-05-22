@@ -1,0 +1,8 @@
+baseURL: https://nandstand.github.io/site/
+languageCode: en-us
+title: Christian Fuller
+theme: dario
+frontmatter:
+  format: yaml
+enableEmoji: true
+enableGitInfo: true
