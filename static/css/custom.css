@@ -1,0 +1,9 @@
+body,
+h1, h2, h3, h4, h5, h6,
+.author-date,
+.mobile-toc-link,
+.toc-container h2,
+header h1,
+header h1 a {
+    font-family: "Petrona", serif;
+}
