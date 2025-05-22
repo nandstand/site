@@ -4,7 +4,7 @@ draft: false
 title: ''
 ---
 
-This is where I'll put a brief intro and talk about the projects I've worked on and the stuff I've written to help software engineers, as a software engineer.  
+This is where I'll put a brief intro and talk about the projects I've worked on and the stuff I've written as a software engineer to help other software engineers.
 
 Maybe two paragraphs is the right length.  I think that it would be good to include some stuff about my background, my education, and what kind of work interests me.
 
