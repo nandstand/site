@@ -10,20 +10,20 @@ Maybe two paragraphs is the right length.  I think that it would be good to incl
 
 ### About my work
 
-- Portfolio
-- Approach to technical writing
-- Tools, languages, and technologies
+- [Portfolio](/site/about-my-work/portfolio/)
+- [Approach to technical writing](/site/about-my-work/approach/)
+- [Tools, languages, and technologies](/site/about-my-work/tools/)
 
 ### About this site
 
-- How I built this site
-- How I test this site
+- [How I built this site](/site/about-this-site/how-i-built-this-site/)
+- [How I test this site](/site/about-this-site/how-i-test-this-site/)
 
 ### Posts
 
-- How to make writing in a terminal more fun
+- [How to make writing in a terminal more fun](/site/posts/terminal-fun/)
 
 ### Contact
 
-- LinkedIn
-- GitHub
+- [LinkedIn](https://www.linkedin.com/in/christian-s-fuller/)
+- [GitHub](https://github.com/nandstand/)
