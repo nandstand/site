@@ -7,3 +7,13 @@ header h1,
 header h1 a {
     font-family: "Petrona", serif;
 }
+
+:root {
+    --bg-color: #f9ead0;
+}
+
+body,
+header,
+footer {
+    background-color: var(--bg-color);
+}
