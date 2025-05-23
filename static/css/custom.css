@@ -7,33 +7,3 @@ header h1,
 header h1 a {
     font-family: "Petrona", serif;
 }
-
-.home-footer {
-    margin-top: 0px;
-    margin-bottom: 20px;
-    padding: 20px 0;
-    background-color: var(--bg-color);
-    transition: background-color 0.2s ease;
-}
-
-.home-footer-logo {
-    text-align: center;
-    padding-top: calc(var(--font-size-base) * 1.6 * 4 * 8); 
-    padding-bottom: calc(var(--font-size-base) * 1.6 * 0.25); 
-}
-
-.home-logo {
-    width: auto;
-    height: calc(var(--font-size-base) * 1.6 * 3); /* 5 lines of text height */
-    max-width: 100%;
-    display: block;
-    margin: 0 auto; /* Centered */
-    border-radius: 8px; /* Optional: rounded corners */
-}
-
-/* Responsive adjustment for smaller screens */
-@media (max-width: 768px) {
-    .home-footer-logo {
-        padding-top: calc(var(--font-size-base) * 1.6 * 3 * 1.5); /* Adjust for smaller image */
-    }
-}
