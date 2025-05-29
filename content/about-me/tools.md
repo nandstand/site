@@ -9,7 +9,7 @@ These are the tools that I currently use, and some of the things that I've had t
 ### Tools I use for writing and programming
 
 - **Editing:** Vim, tmux
-- **Version control:** Git / GitHub / GitLab
+- **Version control:** Git,  GitHub,  GitLab
 - **Productivity:** Google Suite, Jira
 
 ### Programming languages I've worked with
