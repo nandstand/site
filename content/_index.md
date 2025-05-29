@@ -4,9 +4,6 @@ draft: false
 title: ''
 ---
 
-This is where I'll put a brief intro and talk about the projects I've worked on and the stuff I've written as a software engineer to help other software engineers.
-
-Maybe two paragraphs is the right length.  I think that it would be good to include some stuff about my background, my education, and what kind of work interests me.
 
 ### About me
 
@@ -16,8 +13,8 @@ Maybe two paragraphs is the right length.  I think that it would be good to incl
 
 ### About this site
 
-- [How I built this site](/site/about-this-site/how-i-built-this-site/)
-- [How I test this site](/site/about-this-site/how-i-test-this-site/)
+- [How I built this site](/site/about/how-i-built-this-site/)
+- [How I test this site](/site/about/how-i-test-this-site/)
 
 ### Posts
 
