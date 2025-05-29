@@ -1,5 +1,27 @@
 ---
 date: '2025-05-22T09:54:22-05:00'
 draft: false
-title: 'Tools'
+title: 'Tools, languages, and technologies'
 ---
+
+### Tools I use for writing and programming
+
+- **Editing:** Vim, tmux
+- **Version control:** Git / GitHub / GitLab
+- **Productivity:** Google Suite, Jira
+
+### Programming languages I've worked with
+
+- **Object-oriented:** Python, Java
+- **Glue code:** Bash, Perl
+- **Web languages:** HTML, CSS, JavaScript
+- **Databases:** SQL, PLSQL
+- **Systems programming:** C/C++, x86 Assembly
+
+### Technologies I've worked with
+
+- **Cloud platforms, containers:** AWS, Docker
+- **High-performance computing:** Univa Grid Engine, OpenMPI
+- **Web:** Node.js, React
+- **Linux:** RHEL, Ubuntu, Debian
+- **Relational databases:** Oracle, PostgreSQL
