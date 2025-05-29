@@ -1,8 +1,8 @@
 ---
 date: '2025-05-22T09:54:04-05:00'
 draft: false
-title: 'My approach to technical writing'
-description: Philosphy, strategy, and ideas that I like
+title: 'How I approach technical writing'
+description: Philosophy, strategy, and borrowed ideas
 ---
 
 

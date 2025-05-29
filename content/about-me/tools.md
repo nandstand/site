@@ -4,6 +4,8 @@ draft: false
 title: 'Tools, languages, and technologies'
 ---
 
+The following is a summary of the tools that I've used in my work life over the last few years.  I see myself as a generalist.  I'm always open to learning something new!
+
 ### Tools I use for writing and programming
 
 - **Editing:** Vim, tmux

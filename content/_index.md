@@ -8,11 +8,11 @@ This is where I'll put a brief intro and talk about the projects I've worked on 
 
 Maybe two paragraphs is the right length.  I think that it would be good to include some stuff about my background, my education, and what kind of work interests me.
 
-### About my work
+### About me
 
-- [Portfolio](/site/about-my-work/portfolio/)
-- [Approach to technical writing](/site/about-my-work/approach/)
-- [Tools, languages, and technologies](/site/about-my-work/tools/)
+- [Portfolio](/site/about-me/portfolio/)
+- [Approach to technical writing](/site/about-me/approach/)
+- [Tools, languages, and technologies](/site/about-me/tools/)
 
 ### About this site
 
