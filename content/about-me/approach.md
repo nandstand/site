@@ -2,28 +2,27 @@
 date: '2025-05-22T09:54:04-05:00'
 draft: false
 title: 'How I approach technical writing'
-description: Philosophy, strategy, and borrowed ideas
+description: Description goes here
 ---
 
+Morbi commodo faucibus dui, fringilla euismod elit pulvinar vel.
+Fusce sodales semper magna et posuere.
+Vivamus velit metus, consectetur vel tortor sit amet, scelerisque lobortis nibhm.
 
+### Three sections:
+- [Section 1](#section-1)
+- [Section 2](#section-2)
+- [Section 3](#section-3)
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent tincidunt lacus sed ipsum euismod mollis nec non neque. Donec convallis velit ut hendrerit scelerisque. Morbi commodo faucibus dui, fringilla euismod elit pulvinar vel. Fusce sodales semper magna et posuere. Vivamus velit metus, consectetur vel tortor sit amet, scelerisque lobortis nibhm.
+Morbi commodo faucibus dui, fringilla euismod elit pulvinar vel. 
+Fusce sodales semper magna et posuere. 
+Vivamus velit metus, consectetur vel tortor sit amet, scelerisque lobortis nibhm.
 
-### Three ideas:
-- [People don't read documents, they scan](#section-1)
-- [Put the important part at the front, then explain](#section-2)
-- [Something else very important](#section-3)
+## Section 1 Title {#section-1}
 
-Morbi commodo faucibus dui, fringilla euismod elit pulvinar vel. Fusce sodales semper magna et posuere. Vivamus velit metus, consectetur vel tortor sit amet, scelerisque lobortis nibhm.
-
-## People don't read documents, they scan {#section-1}
-
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent tincidunt lacus sed ipsum euismod mollis nec non neque. Donec convallis velit ut hendrerit scelerisque. Morbi commodo faucibus dui, fringilla euismod elit pulvinar vel. Fusce sodales semper magna et posuere. Vivamus velit metus, consectetur vel tortor sit amet, scelerisque lobortis nibhm.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent tincidunt lacus sed ipsum euismod mollis nec non neque. Donec convallis velit ut hendrerit scelerisque. Morbi commodo faucibus dui, fringilla euismod elit pulvinar vel. Fusce sodales semper magna et posuere. Vivamus velit metus, consectetur vel tortor sit amet, scelerisque lobortis nibhm.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent tincidunt lacus sed ipsum euismod mollis nec non neque. Donec convallis velit ut hendrerit scelerisque. Morbi commodo faucibus dui, fringilla euismod elit pulvinar vel. Fusce sodales semper magna et posuere. Vivamus velit metus, consectetur vel tortor sit amet, scelerisque lobortis nibhm.
+Morbi commodo faucibus dui, fringilla euismod elit pulvinar vel. 
+Fusce sodales semper magna et posuere. 
+Vivamus velit metus, consectetur vel tortor sit amet, scelerisque lobortis nibhm.
 
 ```
 name: example-project
@@ -31,13 +30,17 @@ version: 1.0.0
 description: A sample YAML configuration file
 ```
 
-Morbi commodo faucibus dui, fringilla euismod elit pulvinar vel. Fusce sodales semper magna et posuere. Vivamus velit metus, consectetur vel tortor sit amet, scelerisque lobortis nibhm.
 
-## Put the important part at the front, then explain {#section-2}
+Morbi commodo faucibus dui, fringilla euismod elit pulvinar vel. 
+Fusce sodales semper magna et posuere. 
+Vivamus velit metus, consectetur vel tortor sit amet, scelerisque lobortis nibhm.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent tincidunt lacus sed ipsum euismod mollis nec non neque. Donec convallis velit ut hendrerit scelerisque. Morbi commodo faucibus dui, fringilla euismod elit pulvinar vel. Fusce sodales semper magna et posuere. Vivamus velit metus, consectetur vel tortor sit amet, scelerisque lobortis nibhm.
+## Section 2 Title {#section-2}
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent tincidunt lacus sed ipsum euismod mollis nec non neque. Donec convallis velit ut hendrerit scelerisque. Morbi commodo faucibus dui, fringilla euismod elit pulvinar vel. Fusce sodales semper magna et posuere. Vivamus velit metus, consectetur vel tortor sit amet, scelerisque lobortis nibhm.
+
+Morbi commodo faucibus dui, fringilla euismod elit pulvinar vel. 
+Fusce sodales semper magna et posuere. 
+Vivamus velit metus, consectetur vel tortor sit amet, scelerisque lobortis nibhm.
 
 | Column 1 | Column 2 |
 | ----------- | ----------- |
@@ -46,15 +49,25 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent tincidunt lacu
 | Text | Text |
 | Text | Text |
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent tincidunt lacus sed ipsum euismod mollis nec non neque. Donec convallis velit ut hendrerit scelerisque. Morbi commodo faucibus dui, fringilla euismod elit pulvinar vel. Fusce sodales semper magna et posuere. Vivamus velit metus, consectetur vel tortor sit amet, scelerisque lobortis nibhm.
+Morbi commodo faucibus dui, fringilla euismod elit pulvinar vel. 
+Fusce sodales semper magna et posuere. 
+Vivamus velit metus, consectetur vel tortor sit amet, scelerisque lobortis nibhm.
 
-## Something else very important {#section-3}
+## Section 3 Title {#section-3}
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent tincidunt lacus sed ipsum euismod mollis nec non neque. Donec convallis velit ut hendrerit scelerisque. Morbi commodo faucibus dui, fringilla euismod elit pulvinar vel. Fusce sodales semper magna et posuere. Vivamus velit metus, consectetur vel tortor sit amet, scelerisque lobortis nibhm.
+Morbi commodo faucibus dui, fringilla euismod elit pulvinar vel. 
+Fusce sodales semper magna et posuere. 
+Vivamus velit metus, consectetur vel tortor sit amet, scelerisque lobortis nibhm.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent tincidunt lacus sed ipsum euismod mollis nec non neque. Donec convallis velit ut hendrerit scelerisque. Morbi commodo faucibus dui, fringilla euismod elit pulvinar vel. Fusce sodales semper magna et posuere. Vivamus velit metus, consectetur vel tortor sit amet, scelerisque lobortis nibhm.
+Morbi commodo faucibus dui, fringilla euismod elit pulvinar vel. 
+Fusce sodales semper magna et posuere. 
+Vivamus velit metus, consectetur vel tortor sit amet, scelerisque lobortis nibhm.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent tincidunt lacus sed ipsum euismod mollis nec non neque. Donec convallis velit ut hendrerit scelerisque. Morbi commodo faucibus dui, fringilla euismod elit pulvinar vel. Fusce sodales semper magna et posuere. Vivamus velit metus, consectetur vel tortor sit amet, scelerisque lobortis nibhm.
+Morbi commodo faucibus dui, fringilla euismod elit pulvinar vel. 
+Fusce sodales semper magna et posuere. 
+Vivamus velit metus, consectetur vel tortor sit amet, scelerisque lobortis nibhm.
 nibhm
 
-Morbi commodo faucibus dui, fringilla euismod elit pulvinar vel. Fusce sodales semper magna et posuere. Vivamus velit metus, consectetur vel tortor sit amet, scelerisque lobortis nibhm.
+Morbi commodo faucibus dui, fringilla euismod elit pulvinar vel. 
+Fusce sodales semper magna et posuere. 
+Vivamus velit metus, consectetur vel tortor sit amet, scelerisque lobortis nibhm.
