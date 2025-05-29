@@ -4,7 +4,7 @@ draft: false
 title: 'Tools, languages, and technologies'
 ---
 
-These are some of the tools that I use today, and some of the things that I've had the opportunity to work with over the last few years.
+These are the tools that I currently use, and some of the things that I've had the opportunity to work with over the last few years.
 
 ### Tools I use for writing and programming
 
