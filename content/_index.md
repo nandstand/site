@@ -4,6 +4,11 @@ draft: false
 title: ''
 ---
 
+Hi!  I'm Christian Fuller, a technical writer from the Mississippi Gulf Coast.  Previously, I worked as a developer in a defense-related scientific computing setting.  In that role, I managed software integration and deployment, developed a monitoring tool for troubleshooting production issues, held many interviews with subject matter experts, and took a lot of notes.  
+
+I also authored documentation as a developer to help other developers and non-technical stakeholders.  I wrote troubleshooting guides for operational issues I found fixes for, helped revise standard operating procedures for handling merge conflicts, and owned the documentation on a cross-domain solution.  I found that this was the most rewarding part of my work, and so I decided to make it my focus.
+
+I attended the University of New Orleans, initially majoring in English before making the switch to Computer Science, graduating magna cum laude in 2023.
 
 ### About me
 
