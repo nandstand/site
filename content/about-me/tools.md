@@ -10,6 +10,7 @@ These are the tools that I currently use, and some of the things that I've had t
 
 - **Editing:** Vim, tmux
 - **Version control:** Git,  GitHub,  GitLab
+- **Content Management:** Hugo, pandoc
 - **Productivity:** Google Suite, Jira
 
 ### Programming languages I've worked with
