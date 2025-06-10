@@ -4,7 +4,7 @@ draft: false
 title: ''
 ---
 
-I'm Christian Fuller, a technical writer from the Mississippi Gulf Coast.
+Hi! I'm Christian Fuller, a technical writer from the Mississippi Gulf Coast.
 Previously, I worked as a developer in a defense-related scientific computing setting, where I X and Y.  
 
 In that role, I found myself writing a fair amount of documentation to help out other developers on my team.
