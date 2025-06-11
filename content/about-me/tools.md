@@ -11,6 +11,7 @@ These are the tools that I currently use, and some of the things that I've had t
 - **Editing:** Vim, tmux
 - **Version control:** Git,  GitHub,  GitLab
 - **Publishing:** Hugo, pandoc
+- **CI/CD:** GitHub Actions, GitHub Pages
 - **Productivity:** Google Suite, Jira
 
 ### Programming languages I've worked with
@@ -26,5 +27,5 @@ These are the tools that I currently use, and some of the things that I've had t
 - **Cloud platforms, containers:** AWS, Docker
 - **High-performance computing:** Univa Grid Engine, OpenMPI
 - **Web:** Node.js, React, Express
-- **Linux:** RHEL, Ubuntu, Debian
+- **Linux:** RHEL, Ubuntu
 - **Relational databases:** Oracle, PostgreSQL
