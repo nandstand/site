@@ -27,7 +27,7 @@ I attended the University of New Orleans, initially majoring in English before m
 
 - [How to make writing in a terminal more fun](/site/posts/terminal-fun/)
 
-### Contact
+### Connect
 
 - [LinkedIn](https://www.linkedin.com/in/christian-s-fuller/)
 - [GitHub](https://github.com/nandstand/)
