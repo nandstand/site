@@ -58,6 +58,7 @@ jobs:
             --no-progress
             --verbose
             --accept 200,206
+            --exclude '^https://www\.linkedin\.com'
             './public/**/*.html'
 
 
