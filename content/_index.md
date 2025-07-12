@@ -23,10 +23,6 @@ I attended the University of New Orleans, initially majoring in English before m
 - [How I built this site](/site/about/how-i-built-this-site/)
 - [How I test this site](/site/about/how-i-test-this-site/)
 
-### Posts
-
-- [How to make writing in a terminal more fun](/site/posts/terminal-fun/)
-
 ### Connect
 
 - [LinkedIn](https://www.linkedin.com/in/christian-s-fuller/)
