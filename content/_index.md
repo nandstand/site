@@ -12,7 +12,7 @@ I enjoyed that part of the work so much that I decided to make it my focus.
 
 I attended the University of New Orleans, initially majoring in English before making the switch to Computer Science, graduating magna cum laude in 2023.
 
-### About me
+### Work
 
 - [Writing samples](https://samples.christianf.io)
 - [Tools, languages, and technologies](/about-me/tools/)
