@@ -53,7 +53,7 @@ jobs:
         uses: lycheeverse/lychee-action@v2.4.1
         with:
           args: >
-            --base https://nandstand.github.io/site/
+            --base https://christianf.io
             --timeout 20
             --no-progress
             --verbose
