@@ -25,7 +25,7 @@ These are the tools that I currently use, and some of the things that I've worke
 ### Technologies I've worked with
 
 - **Cloud platforms, containers:** AWS, Docker
-- **High-performance computing:** Univa Grid Engine, OpenMPI
+- **High-performance computing:** Batch queuing systems, OpenMPI
 - **Web:** Node.js, React, Express
 - **Linux:** RHEL, Ubuntu
 - **Relational databases:** Oracle, PostgreSQL
