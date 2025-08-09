@@ -4,7 +4,7 @@ draft: false
 title: 'Tools, languages, and technologies'
 ---
 
-These are the tools that I currently use, and some of the things that I've worked with over the last few years.
+Through work, school, or free time, these are what I've spent the most time working with.
 
 ### Tools I use for writing and programming
 
@@ -12,7 +12,7 @@ These are the tools that I currently use, and some of the things that I've worke
 - **Version control:** Git,  GitHub,  GitLab
 - **Publishing:** Hugo, pandoc
 - **CI/CD:** GitHub Actions, GitHub Pages
-- **Productivity:** Google Suite, Jira
+- **Productivity:** Google Suite, Jira, Claude
 
 ### Programming languages I've worked with
 
