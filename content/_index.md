@@ -14,7 +14,7 @@ I attended the University of New Orleans, initially majoring in English before m
 
 ### Work
 
-- [Writing samples](https://samples.christianf.io)
+- [Writing samples](https://portfolio.christianf.io)
 - [Tools, languages, and technologies](/about-me/tools/)
 
 ### Connect
