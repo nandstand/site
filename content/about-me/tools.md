@@ -4,7 +4,7 @@ draft: false
 title: 'Tools, languages, and technologies'
 ---
 
-Through work, school, or free time, these are what I've spent the most time working with.
+Through work, school, or free time, these are the things that I've spent the most time working with.
 
 ### Tools I use for writing and programming
 
