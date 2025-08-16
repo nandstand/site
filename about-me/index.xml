@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>About-Mes on Christian Fuller</title><link>https://christianf.io/about-me/</link><description>Recent content in About-Mes on Christian Fuller</description><generator>Hugo</generator><language>en-us</language><lastBuildDate>Sat, 16 Aug 2025 15:12:15 -0500</lastBuildDate><atom:link href="https://christianf.io/about-me/index.xml" rel="self" type="application/rss+xml"/><item><title>Tools, languages, and technologies</title><link>https://christianf.io/about-me/tools/</link><pubDate>Sun, 10 Aug 2025 09:54:22 -0500</pubDate><guid>https://christianf.io/about-me/tools/</guid><description>&lt;p>Through work, school, or free time, these are the things that I&amp;rsquo;ve spent the most time working with.&lt;/p>
+&lt;h3 id="tools-i-use-for-writing-and-programming">Tools I use for writing and programming&lt;/h3>
+&lt;ul>
+&lt;li>&lt;strong>Editing:&lt;/strong> Vim, tmux&lt;/li>
+&lt;li>&lt;strong>Version control:&lt;/strong> Git, GitHub, GitLab&lt;/li>
+&lt;li>&lt;strong>Publishing:&lt;/strong> Hugo, pandoc&lt;/li>
+&lt;li>&lt;strong>CI/CD:&lt;/strong> GitHub Actions, GitHub Pages&lt;/li>
+&lt;li>&lt;strong>Productivity:&lt;/strong> Google Suite, Claude&lt;/li>
+&lt;/ul>
+&lt;h3 id="languages-ive-worked-with">Languages I&amp;rsquo;ve worked with&lt;/h3>
+&lt;ul>
+&lt;li>&lt;strong>Web development:&lt;/strong> Markdown, HTML, CSS, SCSS, JavaScript&lt;/li>
+&lt;li>&lt;strong>Programming languages:&lt;/strong> Python, Java, C, C++&lt;/li>
+&lt;li>&lt;strong>Scripting &amp;amp; automation:&lt;/strong> Bash, Perl&lt;/li>
+&lt;li>&lt;strong>Databases:&lt;/strong> SQL, PLSQL&lt;/li>
+&lt;li>&lt;strong>Configuration:&lt;/strong> YAML, JSON, XML&lt;/li>
+&lt;/ul>
+&lt;h3 id="technologies-ive-worked-with">Technologies I&amp;rsquo;ve worked with&lt;/h3>
+&lt;ul>
+&lt;li>&lt;strong>Cloud platforms, containers:&lt;/strong> AWS, Docker&lt;/li>
+&lt;li>&lt;strong>High-performance computing:&lt;/strong> Batch queuing systems, OpenMPI&lt;/li>
+&lt;li>&lt;strong>Web:&lt;/strong> Node.js, React, Express&lt;/li>
+&lt;li>&lt;strong>Linux:&lt;/strong> RHEL, Ubuntu&lt;/li>
+&lt;li>&lt;strong>Relational databases:&lt;/strong> Oracle, PostgreSQL&lt;/li>
+&lt;/ul></description></item><item><title>How I approach technical writing</title><link>https://christianf.io/about-me/approach/</link><pubDate>Thu, 22 May 2025 09:54:04 -0500</pubDate><guid>https://christianf.io/about-me/approach/</guid><description>&lt;p>Morbi commodo faucibus dui, fringilla euismod elit pulvinar vel.
+Fusce sodales semper magna et posuere.
+Vivamus velit metus, consectetur vel tortor sit amet, scelerisque lobortis nibhm.&lt;/p>
+&lt;h3 id="three-sections">Three sections&lt;/h3>
+&lt;ul>
+&lt;li>&lt;a href="#section-1">Section 1&lt;/a>&lt;/li>
+&lt;li>&lt;a href="#section-2">Section 2&lt;/a>&lt;/li>
+&lt;li>&lt;a href="#section-3">Section 3&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;p>Morbi commodo faucibus dui, fringilla euismod elit pulvinar vel.
+Fusce sodales semper magna et posuere.
+Vivamus velit metus, consectetur vel tortor sit amet, scelerisque lobortis nibhm.&lt;/p>
+&lt;h2 id="section-1">Section 1 Title&lt;/h2>
+&lt;p>Morbi commodo faucibus dui, fringilla euismod elit pulvinar vel.
+Fusce sodales semper magna et posuere.
+Vivamus velit metus, consectetur vel tortor sit amet, scelerisque lobortis nibhm.&lt;/p></description></item><item><title>Portfolio</title><link>https://christianf.io/about-me/portfolio/</link><pubDate>Thu, 22 May 2025 07:10:58 -0500</pubDate><guid>https://christianf.io/about-me/portfolio/</guid><description>&lt;p>I managed software integration and deployment, developed a monitoring tool, tracked down production issues, and did my best to write everything I learned down.&lt;/p>
+&lt;p>I authored troubleshooting guides for operational issues I found fixes for, helped revise standard operating procedures for handling merge conflicts, and owned all of the documentation on a cross-domain solution that I was the point of contact for.&lt;/p></description></item></channel></rss>
