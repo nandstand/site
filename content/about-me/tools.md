@@ -12,7 +12,7 @@ Through work, school, or free time, these are the things that I've spent the mos
 - **Version control:** Git,  GitHub,  GitLab
 - **Publishing:** Hugo, pandoc
 - **CI/CD:** GitHub Actions, GitHub Pages
-- **Productivity:** Google Suite, Jira, Claude
+- **Productivity:** Google Suite, Claude
 
 ### Languages I've worked with
 
