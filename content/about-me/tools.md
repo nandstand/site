@@ -4,9 +4,7 @@ draft: false
 title: 'Tools, languages, and technologies'
 ---
 
-Through work, school, or free time, these are the things that I've spent the most time working with.
-
-### Tools I use for writing and programming
+### Tools I use for programming and writing
 
 - **Editing:** Vim, tmux
 - **Version control:** Git,  GitHub,  GitLab
@@ -19,7 +17,7 @@ Through work, school, or free time, these are the things that I've spent the mos
 - **Web development:** Markdown, HTML, CSS, SCSS, JavaScript
 - **Programming languages:** Python, Java, C, C++
 - **Scripting & automation:** Bash, Perl
-- **Databases:** SQL, PLSQL
+- **Databases:** SQL, PL/SQL
 - **Configuration:** YAML, JSON, XML
 
 ### Technologies I've worked with
@@ -28,4 +26,4 @@ Through work, school, or free time, these are the things that I've spent the mos
 - **High-performance computing:** Batch queuing systems, OpenMPI
 - **Web:** Node.js, React, Express
 - **Linux:** RHEL, Ubuntu
-- **Relational databases:** Oracle, PostgreSQL
+- **Relational databases:** Oracle, PostgreSQL, MariaDB
