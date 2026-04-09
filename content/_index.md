@@ -4,10 +4,10 @@ draft: false
 title: ''
 ---
 
-Hello! I'm Christian Fuller, a developer from the Mississippi Gulf Coast.
+Hello. I'm Christian Fuller, a developer from the Mississippi Gulf Coast.
 Previously, I worked in a scientific computing setting, where I was part of a team that maintained oceanographic software on an HPC cluster.
 
-I'm interested in things that make technical work easier: custom tooling, automated testing and deployment, and better documentation.
+I'm interested in things that make technical work easier: custom tools, automated testing and deployment, and better documentation.
 
 I attended the University of New Orleans, initially majoring in English before making the switch to Computer Science, graduating magna cum laude in 2023.
 
