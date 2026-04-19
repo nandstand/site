@@ -6,7 +6,7 @@ title: 'Tools, languages, and technologies'
 
 ### Tools I use for programming and writing
 
-- **Editing:** Vim, tmux
+- **Editing:** JetBrains Rider, Vim, tmux
 - **Version control:** Git,  GitHub,  GitLab
 - **Publishing:** Hugo, pandoc
 - **CI/CD:** GitHub Actions, GitHub Pages
@@ -25,5 +25,6 @@ title: 'Tools, languages, and technologies'
 - **Cloud platforms, containers:** AWS, Docker
 - **High-performance computing:** Batch queuing systems, OpenMPI
 - **Web:** Node.js, React, Express
+- **Game engines:** Godot, Unity, GameMaker
 - **Linux:** RHEL, Ubuntu
 - **Relational databases:** Oracle, PostgreSQL, MariaDB
