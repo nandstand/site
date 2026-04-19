@@ -10,12 +10,12 @@ title: 'Tools, languages, and technologies'
 - **Version control:** Git,  GitHub,  GitLab
 - **Publishing:** Hugo, pandoc
 - **CI/CD:** GitHub Actions, GitHub Pages
-- **Productivity:** Google Suite, Claude
+- **Productivity:** Google Suite, Claude, Obsidian
 
 ### Languages I've worked with
 
 - **Web development:** Markdown, HTML, CSS, SCSS, JavaScript
-- **Programming languages:** Python, Java, C, C++
+- **Programming languages:** C#, Java, Python, C, C++
 - **Scripting & automation:** Bash, Perl
 - **Databases:** SQL, PL/SQL
 - **Configuration:** YAML, JSON, XML
