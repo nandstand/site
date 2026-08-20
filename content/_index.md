@@ -5,11 +5,14 @@ title: ''
 ---
 
 Hello! I'm Christian Fuller, a developer from the Mississippi Gulf Coast.
+
 Previously, I worked in a scientific computing setting, where I was part of a team that maintained oceanographic software on an HPC cluster.
+Currently, I develop training software for the U.S. Air Force.
 
-I'm interested in things that make technical work easier: custom tools, automated testing and deployment, and better documentation.
+I'm interested in things that make development work easier (CI/CD, better docs). I also develop games on the side.
 
-I attended the University of New Orleans, initially majoring in English before making the switch to Computer Science, graduating magna cum laude in 2023.
+I attended the University of New Orleans, graduating magna cum laude in 2023.
+
 
 ### Work
 
