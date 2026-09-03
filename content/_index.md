@@ -7,7 +7,7 @@ title: ''
 I'm Christian Fuller, a developer from the Mississippi Gulf Coast.
 
 Previously, I helped maintain and deploy oceanographic software on an HPC cluster.
-Currently, I develop training software for the U.S. Air Force.
+Now, I develop training software for the U.S. Air Force.
 
 I'm interested in things that make development work easier (CI/CD, better docs). I also develop games on the side.
 
