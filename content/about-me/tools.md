@@ -22,9 +22,9 @@ title: 'Tools, languages, and technologies'
 
 ### Technologies I've worked with
 
-- **Cloud platforms, containers:** AWS, Docker
 - **Desktop app development:** .NET, WPF
 - **High-performance computing:** Batch queuing systems, OpenMPI
+- **Cloud platforms, containers:** AWS, Docker
 - **Web:** Node.js, React, Express
 - **Game engines:** Godot, Unity, GameMaker
 - **Linux:** RHEL, Ubuntu
