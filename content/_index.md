@@ -4,7 +4,7 @@ draft: false
 title: ''
 ---
 
-Hello! I'm Christian Fuller, a developer from the Mississippi Gulf Coast.
+I'm Christian Fuller, a developer from the Mississippi Gulf Coast.
 
 Previously, I helped maintain and deploy oceanographic software on an HPC cluster.
 Currently, I develop training software for the U.S. Air Force.
