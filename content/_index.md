@@ -11,7 +11,7 @@ Now, I develop training software for the U.S. Air Force.
 
 I'm interested in things that make development work easier (CI/CD, better docs). I also develop games on the side.
 
-I attended the University of New Orleans, graduating magna cum laude in 2023.
+I attended the University of New Orleans, graduating magna cum laude with a B.S. in Computer Science in 2023.
 
 ### Work
 
