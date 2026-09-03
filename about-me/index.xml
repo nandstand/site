@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>About-Mes on Christian Fuller</title><link>https://christianf.io/about-me/</link><description>Recent content in About-Mes on Christian Fuller</description><generator>Hugo</generator><language>en-us</language><lastBuildDate>Thu, 03 Sep 2026 09:33:20 -0500</lastBuildDate><atom:link href="https://christianf.io/about-me/index.xml" rel="self" type="application/rss+xml"/><item><title>Tools, languages, and technologies</title><link>https://christianf.io/about-me/tools/</link><pubDate>Sun, 10 Aug 2025 09:54:22 -0500</pubDate><guid>https://christianf.io/about-me/tools/</guid><description>&lt;h3 id="tools-i-use-for-programming-and-writing">Tools I use for programming and writing&lt;/h3>
+&lt;ul>
+&lt;li>&lt;strong>Editing:&lt;/strong> Visual Studio, Vim, tmux&lt;/li>
+&lt;li>&lt;strong>Version control:&lt;/strong> Git, GitHub, GitLab&lt;/li>
+&lt;li>&lt;strong>Docs:&lt;/strong> Hugo, pandoc&lt;/li>
+&lt;li>&lt;strong>CI/CD:&lt;/strong> GitHub Actions, GitHub Pages&lt;/li>
+&lt;li>&lt;strong>Productivity:&lt;/strong> Google Suite, Claude, Obsidian&lt;/li>
+&lt;/ul>
+&lt;h3 id="languages-ive-worked-with">Languages I&amp;rsquo;ve worked with&lt;/h3>
+&lt;ul>
+&lt;li>&lt;strong>Programming languages:&lt;/strong> C#, Java, Python, C, C++&lt;/li>
+&lt;li>&lt;strong>Scripting &amp;amp; automation:&lt;/strong> Bash, Perl&lt;/li>
+&lt;li>&lt;strong>Web development:&lt;/strong> Markdown, HTML, CSS, SCSS, JavaScript&lt;/li>
+&lt;li>&lt;strong>Databases:&lt;/strong> SQL, PL/SQL&lt;/li>
+&lt;li>&lt;strong>Configuration:&lt;/strong> YAML, JSON, XML&lt;/li>
+&lt;/ul>
+&lt;h3 id="technologies-ive-worked-with">Technologies I&amp;rsquo;ve worked with&lt;/h3>
+&lt;ul>
+&lt;li>&lt;strong>Desktop app development:&lt;/strong> .NET, WPF&lt;/li>
+&lt;li>&lt;strong>High-performance computing:&lt;/strong> Batch queuing systems, OpenMPI&lt;/li>
+&lt;li>&lt;strong>Cloud platforms, containers:&lt;/strong> AWS, Docker&lt;/li>
+&lt;li>&lt;strong>Web:&lt;/strong> Node.js, React, Express&lt;/li>
+&lt;li>&lt;strong>Game engines:&lt;/strong> Godot, Unity, GameMaker&lt;/li>
+&lt;li>&lt;strong>Linux:&lt;/strong> RHEL, Ubuntu&lt;/li>
+&lt;li>&lt;strong>Relational databases:&lt;/strong> Oracle, PostgreSQL, MariaDB&lt;/li>
+&lt;/ul></description></item></channel></rss>
