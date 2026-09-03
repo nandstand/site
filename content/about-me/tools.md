@@ -14,9 +14,9 @@ title: 'Tools, languages, and technologies'
 
 ### Languages I've worked with
 
-- **Web development:** Markdown, HTML, CSS, SCSS, JavaScript
 - **Programming languages:** C#, Java, Python, C, C++
 - **Scripting & automation:** Bash, Perl
+- **Web development:** Markdown, HTML, CSS, SCSS, JavaScript
 - **Databases:** SQL, PL/SQL
 - **Configuration:** YAML, JSON, XML
 
